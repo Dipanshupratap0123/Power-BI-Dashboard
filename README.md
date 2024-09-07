@@ -2,7 +2,8 @@
 #Problem Statement
 
 The goal of this project is to create a comprehensive sales dashboard in Power BI to monitor and analyze key performance indicators (KPIs) and visualize sales data through various charts. This will help in understanding sales trends, product performance, and customer feedback.
-![sales dashboardph _page-0001](https://github.com/user-attachments/assets/2d2f59cf-bc66-4d43-bd67-917c183d60cc)
+![sale dashboard inage](https://github.com/user-attachments/assets/29e49d9a-2293-4b00-96a2-ef161b3ced82)
+
 
 
 KPI Requirements
